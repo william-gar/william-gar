@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm William</h1>
-<h3 align="center">A FULL STACK WEB DEVELOPER</h3>
+<img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/welcome.gif" />
 
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/programmer-2.png" />
