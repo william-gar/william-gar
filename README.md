@@ -1,5 +1,5 @@
 <!-- <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/welcome.gif" /> -->
-## Welcome to my GitHub Profile...
+# Welcome to my GitHub Profile...
 
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background-readme.png" />
