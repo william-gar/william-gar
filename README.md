@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/welcome.gif" />
 
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background.png" />
+  <img align="center" src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background-readme.png" />
 </div>
 
 ---
