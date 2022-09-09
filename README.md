@@ -1,6 +1,5 @@
-```js
+
 ![Welcome](https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/welcome-readme-github.gif)
-```
 ---
 
 ![Background-portfolio](https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background-readme.png)
