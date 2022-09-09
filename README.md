@@ -1,74 +1,55 @@
-<!-- <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/welcome.gif" /> -->
-# Welcome to my GitHub Profile...
 
-<div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background-readme.png" />
-</div>
+# Welcome...
+
+![Background-portfolio](https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background-readme.png)
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-</p>
+### 🛠️ **_Tech Stack:_**
+<br>
+
+> [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=222222&logo=javascript&logoColor=F0DB4F)](#)
+[![React Badge](https://img.shields.io/badge/-React%20JS-61DBFB?style=for-the-badge&labelColor=222222&logo=react&logoColor=61DBFB)](#)
+[![Redux  Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=222222&logo=redux&logoColor=ffffff)](#)
+[![Html Badge](https://img.shields.io/badge/-Html-E44D2A?style=for-the-badge&labelColor=222222&logo=html5&logoColor=ffffff)](#)
+[![Css Badge](https://img.shields.io/badge/-CSS-2C4DE4?style=for-the-badge&labelColor=222222&logo=css3&logoColor=ffffff)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7432F8?style=for-the-badge&labelColor=222222&logo=bootstrap&logoColor=7432F8)](#)
+
+> [![Nodejs Badge](https://img.shields.io/badge/-Node%20js-3C873A?style=for-the-badge&labelColor=222222&logo=node.js&logoColor=3C873A)](#)
+[![Expressjs Badge](https://img.shields.io/badge/-Express%20js-A52A2A?style=for-the-badge&labelColor=222222&logo=node.js&logoColor=3c873a)](#)
+[![Sequelize Badge](https://img.shields.io/badge/-Sequelize-444444?style=for-the-badge&labelColor=222222&logo=sequelize&logoColor=ffffff)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-Postgresql-32658E?style=for-the-badge&labelColor=222222&logo=postgresql&logoColor=ffffff)](#)
+
+>[![Git Badge](https://img.shields.io/badge/-git-E63758?style=for-the-badge&labelColor=222222&logo=git&logoColor=ffffff)](#)
+[![Linux Badge](https://img.shields.io/badge/-Linux-444444?style=for-the-badge&labelColor=ff00ff&logo=linux&logoColor=111111)](#)
+[![Markdown Badge](https://img.shields.io/badge/-Markdown-4995BF?style=for-the-badge&labelColor=333333&logo=markdown&logoColor=ffffff)](#)
+[![VSCode Badge](https://img.shields.io/badge/-VS%20CODE-2C2C32?style=for-the-badge&labelColor=ffffff&logo=visualstudiocode&logoColor=2D5CA4)](#)
+
+<br>
 
 ---
+>👋👨🏻‍💻 Hello World!
+>
+>- I'm William Garcia, from Ecuador <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/64px-Flag_of_Ecuador.svg.png" width="14px"/>
+>- 
+---
+### 📭 **_Contact me_**
+<br>
 
-<h3 align="center">Connect with me:</h3>
-
-<div align="center">  
-  <a href="#" target="_blank">
+<div>  
+  <a href="https://www.linkedin/williamgar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> |
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=square&logoColor=ffff00" />
+  </a> |
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-50A853?style=for-the-badge&logo=gmail&logoColor=ffff00" />
+  </a> |
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-1A1D21?style=for-the-badge&logo=slack&logoColor=ffff00" />
   </a>
 </div>
+<br>
 
-<!--
-//OTHERS FUTURES SKILLS
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
- 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
--->
+---
