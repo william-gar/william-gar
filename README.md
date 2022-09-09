@@ -4,7 +4,7 @@
 
 ![Background-portfolio](https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background-readme.png)
 ---
-<img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/line-fire.gif" width="100%" height="25px" style="border-radius:5px;"/>
+<img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/effect-line-fire.gif" width="100%" height="25px" style="border-radius:5px;"/>
 
 ### 🛠️ **_Tech Stack:_**
 <br>
