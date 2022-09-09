@@ -32,7 +32,7 @@
 ---
 >👋👨🏻‍💻 Hello World!
 >
->- I'm William Garcia, from Ecuador <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/64px-Flag_of_Ecuador.svg.png" width="14px"/>
+>- I'm William Garcia, from Ecuador <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/Ecuador-flag.png" width="14px"/>
 
 ---
 ### 📭 **_Contact me_**
