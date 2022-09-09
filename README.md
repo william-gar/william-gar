@@ -20,7 +20,8 @@
 [![Sequelize Badge](https://img.shields.io/badge/-Sequelize-444444?style=for-the-badge&labelColor=222222&logo=sequelize&logoColor=ffffff)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-Postgresql-32658E?style=for-the-badge&labelColor=222222&logo=postgresql&logoColor=ffffff)](#)
 
->[![Git Badge](https://img.shields.io/badge/-git-E63758?style=for-the-badge&labelColor=222222&logo=git&logoColor=ffffff)](#)
+> [![Git Badge](https://img.shields.io/badge/-git-E63758?style=for-the-badge&labelColor=222222&logo=git&logoColor=ffffff)](#)
+[![VSCode Badge](https://img.shields.io/badge/-NPM-222222?style=for-the-badge&labelColor=ff00ff&logo=npm&logoColor=2D5CA4)](#)
 [![Linux Badge](https://img.shields.io/badge/-Linux-444444?style=for-the-badge&labelColor=ff00ff&logo=linux&logoColor=111111)](#)
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-4995BF?style=for-the-badge&labelColor=333333&logo=markdown&logoColor=ffffff)](#)
 [![VSCode Badge](https://img.shields.io/badge/-VS%20CODE-2C2C32?style=for-the-badge&labelColor=ffffff&logo=visualstudiocode&logoColor=2D5CA4)](#)
