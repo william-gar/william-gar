@@ -45,7 +45,7 @@
   <a href="https://www.williamgar.com" target="_blank">
     <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/world.png" width="40px" />
   </a> -
-  <a mailto="williamgarm1@gmail.com" target="_blank">
+  <a mailto="williamgarm1@gmail.com">
     <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/mail.png" width="45px" />
   </a>
 </div>
