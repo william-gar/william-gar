@@ -40,16 +40,13 @@
 
 <div>  
   <a href="https://www.linkedin.com/in/williamgar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> |
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=square&logoColor=ffff00" />
-  </a> |
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-50A853?style=for-the-badge&logo=gmail&logoColor=000000" />
-  </a> |
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-1A1D21?style=for-the-badge&logo=slack&logoColor=ffffff" />
+    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/linkedin.png" width="45px" />
+  </a> -
+  <a href="https://www.williamgar.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/world.png" width="40px" />
+  </a> -
+  <a mailto="williamgarm1@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/mail.png" width="45px" />
   </a>
 </div>
 <br>
