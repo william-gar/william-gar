@@ -5,6 +5,13 @@
 ![Background-portfolio](https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/background-readme.png)
 ---
 <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/effect-line-fire.gif" width="100%" height="25px" style="border-radius:5px;"/>
+<br>
+---
+>👋👨🏻‍💻 Hello World!
+>
+>- I'm William Garcia, from Ecuador <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/Ecuador-flag.png" width="14px"/>
+
+---
 
 ### 🛠️ **_Tech Stack:_**
 <br>
@@ -28,13 +35,6 @@
 [![VSCode Badge](https://img.shields.io/badge/-VS%20CODE-2C2C32?style=for-the-badge&labelColor=ffffff&logo=visualstudiocode&logoColor=2D5CA4)](#)
 
 <br>
-
----
->👋👨🏻‍💻 Hello World!
->
->- I'm William Garcia, from Ecuador <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/Ecuador-flag.png" width="14px"/>
-
----
 ### 📭 **_Contact me_**
 <br>
 
