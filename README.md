@@ -7,11 +7,10 @@
 <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/effect-line-fire.gif" width="100%" height="25px" style="border-radius:5px;"/>
 <br>
 ---
->👋👨🏻‍💻 Hello World!
->
->- I'm William Garcia, from Ecuador <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/Ecuador-flag.png" width="14px"/>
-
+👋👨🏻‍💻 Hello World!
+I'm William Garcia, from Ecuador <img src="https://raw.githubusercontent.com/william-gar/only-images/main/readme-images/cover-image/Ecuador-flag.png" width="14px"/>
 ---
+<br>
 
 ### 🛠️ **_Tech Stack:_**
 <br>
