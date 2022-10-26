@@ -32,9 +32,10 @@ I'm William Garcia, from Ecuador <img src="https://raw.githubusercontent.com/wil
 [![Linux Badge](https://img.shields.io/badge/-Linux-444444?style=for-the-badge&labelColor=ff00ff&logo=linux&logoColor=111111)](#)
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-4995BF?style=for-the-badge&labelColor=333333&logo=markdown&logoColor=ffffff)](#)
 [![VSCode Badge](https://img.shields.io/badge/-VS%20CODE-2C2C32?style=for-the-badge&labelColor=ffffff&logo=visualstudiocode&logoColor=2D5CA4)](#)
-
+---
 <br>
 ### 📭 **_Contact me_**
+---
 <br>
 
 <div>  
