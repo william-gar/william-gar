@@ -31,6 +31,7 @@ Intensely interested and focused on everything related to Programming and the wo
 [![Redux  Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=222222&logo=redux&logoColor=ffffff)](#)
 [![Html Badge](https://img.shields.io/badge/-Html-E44D2A?style=for-the-badge&labelColor=222222&logo=html5&logoColor=ffffff)](#)
 [![Css Badge](https://img.shields.io/badge/-CSS-2C4DE4?style=for-the-badge&labelColor=222222&logo=css3&logoColor=ffffff)](#)
+[![TailwindCSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=for-the-badge&labelColor=FFFFFF&logo=tailwindcss&logoColor=38BDF8)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7432F8?style=for-the-badge&labelColor=222222&logo=bootstrap&logoColor=7432F8)](#)
 
 > [![Nodejs Badge](https://img.shields.io/badge/-Node%20js-3C873A?style=for-the-badge&labelColor=222222&logo=node.js&logoColor=3C873A)](#)
