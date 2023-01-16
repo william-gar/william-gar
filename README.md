@@ -26,6 +26,7 @@ Intensely interested and focused on everything related to Programming and the wo
 <br>
 
 > [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=222222&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=222222&logo=typescript&logoColor=007ACC)](#)
 [![React Badge](https://img.shields.io/badge/-React%20JS-61DBFB?style=for-the-badge&labelColor=222222&logo=react&logoColor=61DBFB)](#)
 [![Redux  Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=222222&logo=redux&logoColor=ffffff)](#)
 [![Html Badge](https://img.shields.io/badge/-Html-E44D2A?style=for-the-badge&labelColor=222222&logo=html5&logoColor=ffffff)](#)
