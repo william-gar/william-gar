@@ -8,6 +8,8 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=william-gar&hide=java&hide_border=true&theme=vue)
+
 ---
 👋🏻‍💻 Hello World!<br>
 
@@ -58,9 +60,10 @@ Intensely interested and focused on everything related to Programming and the wo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=william-gar&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="william-gar" /></p>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-gar&layout=compact)](#)
 <br>
-
+-->
 ---
 ## Latest Works
 ▶️Books Ecommerce
@@ -118,13 +121,13 @@ in a database made with PostgreSQL.
 
 <div>  
   <a href="https://www.linkedin.com/in/williamgar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/linkedin.png" width="45px" />
-  </a> -
-  <a href="https://www.williamgar.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/world.png" width="40px" />
-  </a> -
-  <a href="mailto:williamgarm1@gmail.com" Subject=GitHub%20Profile%20App">
-    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/mail.png" width="45px" />
+    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/linkedin.png" width="40px" />
+  </a> &nbsp;
+  <a href="https://williamgar.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/world.png" width="36px" />
+  </a> &nbsp;
+  <a href="mailto:dev@williamgar.com" Subject=GitHub%20Profile%20App">
+    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/mail.png" width="40px" />
   </a>
 </div>
 <br>
