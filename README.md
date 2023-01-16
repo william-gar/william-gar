@@ -51,9 +51,9 @@ Intensely interested and focused on everything related to Programming and the wo
 
 ---
 ### 🧑 **_Soft Skills:_**
-◉Resilience | ◉Adaptability | ◉respect | ◉Troubleshooting<br>
-◉Teamwork | ◉Collaboration | ◉Discipline | ◉Analytical<br>
-◉Active listening | ◉Empathy | ◉Proactivity | ◉Focus<br>  ◉thinking | ◉Self-taught | ◉Focus on results<br>
+Resilience | Adaptability | Respect | Troubleshooting<br>
+Teamwork | Collaboration | Discipline | Analytical<br>
+Active listening | Empathy | Proactivity | Focus<br>  thinking | Self-taught | Focus on results<br>
 
 ---
 <br>
