@@ -120,13 +120,10 @@ in a database made with PostgreSQL.
 <br>
 
 <div>  
-  <a href="https://www.linkedin.com/in/williamgar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/linkedin.png" width="40px" />
-  </a> &nbsp;
-  <a href="https://williamgar.com" target="_blank">
+  <a href="https://williamgar.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/world.png" width="36px" />
   </a> &nbsp;
-  <a href="mailto:dev@williamgar.com" Subject=GitHub%20Profile%20App">
+  <a href="mailto:william.garcia.dev@gmail.com" Subject=GitHub%20Profile%20App">
     <img src="https://raw.githubusercontent.com/william-gar/only-images/main/icons-png/contact/mail.png" width="40px" />
   </a>
 </div>
